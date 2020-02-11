@@ -11,7 +11,7 @@ coreschema==0.0.4
 cryptography==1.2.3
 defer==1.0.6
 defusedxml==0.5.0
-Django==1.10
+Django==1.11.28
 django-allauth==0.33.0
 djangorestframework-jwt==1.11.0
 feedparser==5.1.3
