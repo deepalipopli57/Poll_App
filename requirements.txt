@@ -75,7 +75,7 @@ uritemplate==3.0.0
 urllib3==1.22
 usb-creator==0.3.0
 virtualenv==15.0.1
-wheel==0.29.0
+wheel==0.38.1
 xdiagnose==3.8.4.1
 xkit==0.0.0
 XlsxWriter==0.7.3
